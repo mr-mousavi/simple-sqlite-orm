@@ -49,6 +49,7 @@ You can use the following configuration to compile project in *debug mode* for a
 
 
 #build and run
+
 1: create _build folder (or any folder you like to put build stuff inside)
 
 2: inside _build folder run below command step by step
